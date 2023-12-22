@@ -8,7 +8,6 @@
     "path_controlnet": "/content/Fooocus/models/controlnet",
     "path_clip_vision": "/content/Fooocus/models/clip_vision",
     "path_fooocus_expansion": "/content/Fooocus/models/prompt_expansion/fooocus_expansion",
-    "path_outputs": "/content/Fooocus/outputs",
     "default_model": "juggernautXL_version6Rundiffusion.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
