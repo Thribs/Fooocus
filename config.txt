@@ -57,7 +57,8 @@
         "NsfwPovAllInOneLoraSdxl-000009.safetensors": "https://huggingface.co/Thribs/models/resolve/main/loras/NsfwPovAllInOneLoraSdxl-000009.safetensors",
         "polyhedron_men_eyes.safetensors": "https://huggingface.co/Thribs/models/resolve/main/loras/polyhedron_men_eyes.safetensors",
         "fishnets_lora01.safetensors": "https://huggingface.co/Thribs/models/resolve/main/loras/fishnets_lora01.safetensors",
-        "pantyhose_c1.safetensors": "https://huggingface.co/Thribs/models/resolve/main/loras/pantyhose_c1.safetensors"
+        "pantyhose_c1.safetensors": "https://huggingface.co/Thribs/models/resolve/main/loras/pantyhose_c1.safetensors",
+        "BackViewCarPose.safetensors": "https://huggingface.co/Thribs/models/resolve/main/loras/BackViewCarPose.safetensors"
     },
     "embeddings_downloads": {},
     "available_aspect_ratios": [
