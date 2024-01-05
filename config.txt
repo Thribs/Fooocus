@@ -47,7 +47,7 @@
     "default_prompt": "",
     "default_performance": "Quality",
     "default_advanced_checkbox": true,
-    "default_image_number": 6,
+    "default_image_number": 4,
     "checkpoint_downloads": {
         "juggernautXL_v7Rundiffusion.safetensors": "https://huggingface.co/Thribs/models/resolve/main/checkpoints/juggernautXL_v7Rundiffusion.safetensors",
         "sdxlYamersRealisticNSFW_v4VAE.safetensors": "https://huggingface.co/Thribs/models/resolve/main/checkpoints/sdxlYamersRealisticNSFW_v4VAE.safetensors"
