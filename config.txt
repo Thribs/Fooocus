@@ -59,8 +59,8 @@
         "fishnets_lora01.safetensors": "https://huggingface.co/Thribs/models/resolve/main/loras/fishnets_lora01.safetensors",
         "pantyhose_c1.safetensors": "https://huggingface.co/Thribs/models/resolve/main/loras/pantyhose_c1.safetensors",
         "BackViewCarPose.safetensors": "https://huggingface.co/Thribs/models/resolve/main/loras/BackViewCarPose.safetensors",
-        "GodPussy1 v4.safetensors": "https://huggingface.co/Thribs/models/resolve/main/loras/GodPussy1 v4.safetensors",
-        "GodPussy2 v1.safetensors": "https://huggingface.co/Thribs/models/resolve/main/loras/GodPussy2 v1.safetensors",
+        "GodPussy1_v4.safetensors": "https://huggingface.co/Thribs/models/resolve/main/loras/GodPussy1_v4.safetensors",
+        "GodPussy2_v1.safetensors": "https://huggingface.co/Thribs/models/resolve/main/loras/GodPussy2_v1.safetensors",
         "polyhedron_all_eyes.safetensors": "https://huggingface.co/Thribs/models/resolve/main/loras/Bpolyhedron_all_eyes.safetensors",
         "realistic_eyes-000004.safetensors": "https://huggingface.co/Thribs/models/resolve/main/loras/realistic_eyes-000004.safetensors",
         "sharp_eyes.safetensors": "https://huggingface.co/Thribs/models/resolve/main/loras/sharp_eyes.safetensors"
