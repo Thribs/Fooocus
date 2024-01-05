@@ -61,7 +61,7 @@
         "BackViewCarPose.safetensors": "https://huggingface.co/Thribs/models/resolve/main/loras/BackViewCarPose.safetensors",
         "GodPussy1_v4.safetensors": "https://huggingface.co/Thribs/models/resolve/main/loras/GodPussy1_v4.safetensors",
         "GodPussy2_v1.safetensors": "https://huggingface.co/Thribs/models/resolve/main/loras/GodPussy2_v1.safetensors",
-        "polyhedron_all_eyes.safetensors": "https://huggingface.co/Thribs/models/resolve/main/loras/Bpolyhedron_all_eyes.safetensors",
+        "polyhedron_all_eyes.safetensors": "https://huggingface.co/Thribs/models/resolve/main/loras/polyhedron_all_eyes.safetensors",
         "realistic_eyes-000004.safetensors": "https://huggingface.co/Thribs/models/resolve/main/loras/realistic_eyes-000004.safetensors",
         "sharp_eyes.safetensors": "https://huggingface.co/Thribs/models/resolve/main/loras/sharp_eyes.safetensors"
     },
