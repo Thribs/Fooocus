@@ -8,7 +8,7 @@
     "path_controlnet": "/content/Fooocus/models/controlnet",
     "path_clip_vision": "/content/Fooocus/models/clip_vision",
     "path_fooocus_expansion": "/content/Fooocus/models/prompt_expansion/fooocus_expansion",
-    "default_model": "juggernautXL_v7Rundiffusion.safetensors",
+    "default_model": "juggernautXL_v8Rundiffusion.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -48,7 +48,7 @@
     "default_advanced_checkbox": true,
     "default_image_number": 4,
     "checkpoint_downloads": {
-        "juggernautXL_v7Rundiffusion.safetensors": "https://huggingface.co/Thribs/models/resolve/main/checkpoints/juggernautXL_v7Rundiffusion.safetensors",
+        "juggernautXL_v8Rundiffusion.safetensors": "https://huggingface.co/Thribs/models/resolve/main/checkpoints/juggernautXL_v8Rundiffusion.safetensors",
         "sdxlYamersRealisticNSFW_v4VAE.safetensors": "https://huggingface.co/Thribs/models/resolve/main/checkpoints/sdxlYamersRealisticNSFW_v4VAE.safetensors"
     },
     "lora_downloads": {
